@@ -15,7 +15,8 @@ public class Proyectobd2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       int x=2;
+       int x=2; 
+        system.out
     }
     
 }
