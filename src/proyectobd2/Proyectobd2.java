@@ -16,7 +16,7 @@ public class Proyectobd2 {
      */
     public static void main(String[] args) {
        int x=2; 
-        system.out
-    }
+        System.out.println("es "+x); 
+    }   
     
 }
