@@ -15,8 +15,13 @@ public class Proyectobd2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       int x=2; 
+       int x=2;  int z=4; 
         System.out.println("es "+x); 
+        System.out.println("es "+x); 
+        System.out.println("es "+z); 
+        System.out.println("es "+z); 
+        
+        
     }   
     
 }
